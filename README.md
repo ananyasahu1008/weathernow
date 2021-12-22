@@ -1,4 +1,5 @@
-"Weathernow"</br>
+# Weathernow
+
 It is an API driven web-application that shows the current temperature of any city around the globe.</br>
 Technologies used are Node.js, HTML, CSS </br>
 Used OpenWeatherMap API.</br>
